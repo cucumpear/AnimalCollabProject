@@ -1,16 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>AnimalCollabProj</name>
+  <name>Animal Collab Project Vanilla-Style</name>
   <author>Ekksu / Xen / Cucumpear / Thirite / Whizzard / Lindseyrie / Walking Problem</author>
-  <packageId>ACPteam.ACP</packageId>
+  <packageId>ACPteam.ACPVanillaStyle</packageId>
   <supportedVersions>
 	<li>1.0</li>
 	<li>1.1</li>
   </supportedVersions>
-  <description>Adds over fifty animals into the game for every biome and environment! From Ice Sheets to Extreme Deserts, bring your game to life with some more critters!
-
-  You can find us on Ludeon Forums and Steam with more information and fun extras!
-
-  Special thanks to Lex124 for contributing textures!
-  v1.1s</description>
+  <description>Adds over fifty animals into the game for every biome and environment! From Ice Sheets to Extreme Deserts, bring your game to life with some more critters!</description>
 </ModMetaData>
